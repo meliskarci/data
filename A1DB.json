@@ -1,0 +1,74 @@
+[
+    {
+        "english": "a bottle of",
+        "turkish": "bir şişe",
+        "sentence1": "Can I have a bottle of water, please ?",
+        "mean1": "Bir şişe su alabilir miyim, lütfen?"
+       },
+       {
+        "english": "a cup of",
+        "turkish": "bir fincan",
+        "sentence1": "I'd like a cup of tea, please.",
+        "mean1": "Bir fincan çay alabilir miyim lütfen?"
+       },
+       {
+        "english": "a day off",
+        "turkish": "izin günü - tatil günü",
+        "sentence1": "I didn't go to work yesterday. It was my day off.",
+        "mean1": "Dün işe gitmedim. İzin günümdü."
+       },
+       {
+        "english": "a kind of",
+        "turkish": "bir çeşit",
+        "sentence1": "San Sebastian is a kind of dessert.",
+        "mean1": "San Sebastian bir çeşit tatlıdır.",
+        "sentence2": "It is a kind of orange.",
+        "mean2": "Bir çeşit portakal."
+       },
+       {
+        "english": "a lot",
+        "turkish": "çok - birçok",
+        "sentence1": "We watch a lot of films.",
+        "mean1": "Çok film izliyoruz.",
+        "sentence2": "We have a lot to do in this area.",
+        "mean2": "Bu alanda yapmamız gereken çok şey var."
+       },
+       {
+        "english": "a piece of",
+        "turkish": "bir parça",
+        "sentence1": "They wear a piece of wood on their heads.",
+        "mean1": "Başlarında bir parça tahta takıyorlar."
+       },
+       {
+        "english": "ability",
+        "turkish": "kabiliyet - yetenek - beceri",
+        "sentence1": "Koko has an unusual ability: she understands languages.",
+        "mean1": "Koko'nun sıra dışı bir yeteneği var; dilleri anlıyor.",
+        "sentence2": "The report questions the technical ability of the staff.",
+        "mean2": "Raporda personelin teknik yeterliliği sorgulanıyor."
+       },
+       {
+        "english": "about",
+        "turkish": "hemen hemen - yaklaşık - konusunda - hakkında",
+        "sentence1": "Tell me about your family.",
+        "mean1": "Bana ailenden bahset.",
+        "sentence2": "It happened about two months ago.",
+        "mean2": "Yaklaşık iki ay önce oldu."
+       },
+       {
+        "english": "access",
+        "turkish": "giriş - erişim",
+        "sentence1": "Guests have 24-hours access to the hotel.",
+        "mean1": "Misafirler otele 24 saat erişebilirler.",
+        "sentence2": "I don't have access to that kind of information.",
+        "mean2": "Benim bu tür bilgilere erişimim yok."
+       },
+       {
+        "english": "accident",
+        "turkish": "kaza",
+        "sentence1": "He died in a flying accident in 1869.",
+        "mean1": "1869 yılında bir uçak kazasında öldü."
+       }
+
+
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "english": "a bit",
+        "turkish": "az - biraz",
+        "sentence1": "As you get closer, you notice something a bit unusual.",
+        "mean1": "Yaklaştıkça, biraz sıra dışı bir şey fark ediyorsun.",
+        "sentence2": "I was disappointed to see that my bonus was a bit less than I was expecting.",
+        "mean2": "İkramiyemin beklediğimden biraz daha az olduğunu görünce hayal kırıklığına uğradım."
+       },
+       {
+        "english": "above",
+        "turkish": "üstünde - yukarıda",
+        "sentence1": "My bed is above the kitchen.",
+        "mean1": "Yatağım mutfağın üstünde."
+       },
+       {
+        "english": "accent",
+        "turkish": "aksan",
+        "sentence1": "She's got  a really strong accent.",
+        "mean1": "Gerçekten çok güçlü bir aksanı var.",
+        "sentence2": "I couldn't understand her at first because of her accent.",
+        "mean2": "Aksanından dolayı ilk başta onu anlayamadım."
+       },
+       {
+        "english": "acrobat",
+        "turkish": "akrobat",
+        "sentence1": "The acrobats were doing some amazing things.",
+        "mean1": "Akrobatlar inanılmaz şeyler yapıyordu."
+       },
+       {
+        "english": "action film",
+        "turkish": "aksiyon filmi",
+        "sentence1": "I don't like action films because they're really boring.",
+        "mean1": "Aksiyon filmlerini sevmiyorum çünkü çok sıkıcılar."
+       },
+       {
+        "english": "address",
+        "turkish": "adres",
+        "sentence1": "Write down your address and phone number",
+        "mean1": "Adresinizi ve telefon numaranızı yazın"
+       },
+       {
+        "english": "administrator",
+        "turkish": "yönetici - idareci",
+        "sentence1": "Just tell the administrator before you leave.",
+        "mean1": "Ayrılmadan önce yöneticiye söyleyin.",
+        "sentence2": "The commission has appointed a new administrator.",
+        "mean2": "Komisyon yeni bir yönetici atadı."
+       },
+       {
+        "english": "again",
+        "turkish": "bir daha - tekrar",
+        "sentence1": "Say that again please.",
+        "mean1": "Tekrar edin lütfen.",
+        "sentence2": "This is unacceptable and must not happen again.",
+        "mean2": "Bu kabul edilemez ve bir daha olmamalı."
+       },
+       {
+        "english": "agree",
+        "turkish": "aynı fikirde olmak ",
+        "sentence1": "I usually agree with my friends.",
+        "mean1": "Genelde arkadaşlarımla aynı fikirdeyim.",
+        "sentence2": "We agree about most things.",
+        "mean2": "Çoğu konuda aynı fikirdeyiz."
+       },
+       {
+        "english": "air-conditioned",
+        "turkish": "havalandırmalı - klimalı",
+        "sentence1": "Air-conditioned taxis are a  comfortable way to travel.",
+        "mean1": "Klimalı taksiler seyahat etmek için konforlu bir yoldur."
+       }
+]
